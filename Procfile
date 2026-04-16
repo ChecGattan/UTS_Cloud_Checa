@@ -1,0 +1,1 @@
+web: python UTS_CLOUD_CHECA.py
